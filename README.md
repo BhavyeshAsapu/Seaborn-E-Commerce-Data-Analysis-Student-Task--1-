@@ -228,7 +228,6 @@ The analysis produced several important findings:
 ```text
 E-Commerce-EDA/
 │
-├── Ecommerce_EDA_Student.ipynb
 ├── Ecommerce_EDA_Student_Colorful.ipynb
 ├── messy_ecommerce_15000_student_practice.csv
 ├── cleaned_ecommerce_dataset.csv
