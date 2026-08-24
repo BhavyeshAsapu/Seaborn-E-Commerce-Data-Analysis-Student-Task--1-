@@ -306,7 +306,7 @@ The final cleaned dataset is exported separately, while the original dataset rem
 
 ## 👨‍💻 Author
 
-**Bhavyesh Bhavye**
+**Bhavyesh Asapu**
 
 **Assignment:** E-Commerce Exploratory Data Analysis
 **Assigned By:** Calibo
